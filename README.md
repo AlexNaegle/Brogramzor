@@ -1,4 +1,4 @@
 Brogramzor
 ==========
 
-My name is _______ and I like to _______
+My name is Alex Naegle and I like to learn GitHub
